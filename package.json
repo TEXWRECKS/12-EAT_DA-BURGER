@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TEXWRECKS/12-EAT_DA-BURGER/issues"
   },
-  "homepage": "https://github.com/TEXWRECKS/12-EAT_DA-BURGER#readme"
+  "homepage": "https://github.com/TEXWRECKS/12-EAT_DA-BURGER#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
